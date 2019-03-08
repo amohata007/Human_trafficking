@@ -1,4 +1,4 @@
-Project winning frontend website
+Project winning frontend website.
 
 
 Team - Happy Faces
